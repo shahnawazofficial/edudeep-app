@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">edudeep</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="time_slot_text">10:00 AM - 11:00 AM</string>
+    <string name="lecture_info">Lecture / G:All C:CSE357</string>
+    <string name="room_info">R: 38-806 / S: K22MK</string>
+</resources>
